@@ -1,5 +1,5 @@
 import { columns, Payment } from "@/app/admin/ingredients/column";
-import { DataTable } from "./data-table";
+import { DataTable } from "../../../../components/data-table/data-table";
 
 const data: Payment[] = [
   {

@@ -1,4 +1,4 @@
-import IngredientsDataTable from "@/components/data-table/ingredients-data-table";
+import IngredientsDataTable from "@/app/admin/ingredients/_components/ingredients-data-table";
 import { Button } from "@/components/ui/button";
 import {
   Card,
